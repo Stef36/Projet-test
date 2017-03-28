@@ -1,1 +1,2 @@
 texte du fichier texte 1
+retest d'ecriture du fichier
